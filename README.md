@@ -38,5 +38,3 @@ Tools:
 - REST API
 - Software Architecture
 
-📫 Connect with me:
-- Email: your-email@example.com
